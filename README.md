@@ -1,6 +1,6 @@
-# Appyay.js
+# Appyay Delivery Javascript SDK
 
-Client Javascript library for Appyay Content Delivery API.
+Client Javascript library (node and browser) for Appyay Content Delivery API.
 
 ## Usage
 Not yet on NPM

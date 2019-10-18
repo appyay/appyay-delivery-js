@@ -19,7 +19,8 @@
  * @example
  * const appyay = require('appyay')
  * const client = appyay.createClient({
- *  apikey: '<api_key>',
+   *  accessToken: '<access_token>', // for write access
+   *  apikey: '<api_key>', // for read access
  *  environmentId: '<environment_id>',
  *  spaceId: '<space_id>' //optional
  * })
